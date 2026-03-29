@@ -23,22 +23,22 @@
           <mxGeometry x="290" y="70" width="30" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-10" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="130" y="240" width="350" height="170" as="geometry" />
+          <mxGeometry x="130" y="210" width="350" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-11" value="环境变量提取与预处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="135" y="275" width="30" height="100" as="geometry" />
+          <mxGeometry x="135" y="245" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-12" value="地形因子：DEM、坡度、坡向、TWI、曲率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="250" width="130" height="60" as="geometry" />
+          <mxGeometry x="180" y="220" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-15" value="植被因子：NDVI、FVC、LAI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="330" width="130" height="60" as="geometry" />
+          <mxGeometry x="180" y="300" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-16" value="气候因子：气温、降水量、太阳总辐射、相对湿度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="250" width="130" height="60" as="geometry" />
+          <mxGeometry x="324" y="220" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-17" value="岩性因子：母岩母质、砂粒含量、黏粒含量、土壤质地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="330" width="130" height="60" as="geometry" />
+          <mxGeometry x="324" y="300" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
