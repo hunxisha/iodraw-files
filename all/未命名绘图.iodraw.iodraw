@@ -11,7 +11,7 @@
           <mxGeometry x="140" y="90" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-6" value="样点数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="100" width="90" height="30" as="geometry" />
+          <mxGeometry x="180" y="110" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-7" value="研究区资料收集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="110" width="106" height="30" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="290" y="70" width="30" height="160" as="geometry" />
+          <mxGeometry x="295" y="75" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-10" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="130" y="210" width="350" height="170" as="geometry" />
