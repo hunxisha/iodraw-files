@@ -16,6 +16,11 @@
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-7" value="研究区资料收集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="110" width="106" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="ULsQhHp4KFccXUQ3mqeq-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="280" y="80" width="50" height="160" as="geometry" />
         </mxCell>
