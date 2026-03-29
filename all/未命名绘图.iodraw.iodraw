@@ -68,7 +68,10 @@
           <mxGeometry x="245" y="620" width="120" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-28" value="随机森林" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="560" width="120" height="42.5" as="geometry" />
+          <mxGeometry x="190" y="560" width="120" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-29" value="随机森林" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="560" width="120" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
