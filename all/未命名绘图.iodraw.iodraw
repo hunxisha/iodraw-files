@@ -28,7 +28,7 @@
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-11" value="环境变量提取与预处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="245" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-20" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-20" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="170" y="220" width="290" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-12" value="地形因子：DEM、坡度、坡向、TWI、曲率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
