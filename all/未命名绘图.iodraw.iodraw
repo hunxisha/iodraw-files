@@ -62,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-23" value="估计模型构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="485" width="30" height="170" as="geometry" />
+          <mxGeometry x="140" y="485" width="20" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="ULsQhHp4KFccXUQ3mqeq-24" target="ULsQhHp4KFccXUQ3mqeq-25">
           <mxGeometry relative="1" as="geometry" />
