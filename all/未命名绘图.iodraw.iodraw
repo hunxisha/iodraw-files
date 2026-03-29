@@ -23,7 +23,7 @@
           <mxGeometry x="130" y="290" width="350" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-11" value="环境变量提取与预处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="520" width="30" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
