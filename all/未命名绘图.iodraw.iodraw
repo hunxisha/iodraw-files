@@ -91,7 +91,7 @@
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-36" value="评价指标：R&lt;sup&gt;2&lt;/sup&gt;、RMSE、MAE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-37" value="评价指标：R&lt;sup&gt;2&lt;/sup&gt;、RMSE、MAE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-37" value="留一法/k折交叉法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="322" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
