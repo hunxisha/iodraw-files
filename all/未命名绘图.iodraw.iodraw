@@ -49,7 +49,7 @@
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-21" value="重采样、空间对其" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="400" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ULsQhHp4KFccXUQ3mqeq-20" target="ULsQhHp4KFccXUQ3mqeq-21">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="ULsQhHp4KFccXUQ3mqeq-20" target="ULsQhHp4KFccXUQ3mqeq-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="580" as="sourcePoint" />
             <mxPoint x="420" y="530" as="targetPoint" />
