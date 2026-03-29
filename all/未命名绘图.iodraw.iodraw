@@ -61,6 +61,9 @@
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-24" value="特征重要性排序与环境因子筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="500" width="240" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-25" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="185" y="535" width="245" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
