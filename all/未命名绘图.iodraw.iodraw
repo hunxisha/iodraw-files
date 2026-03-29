@@ -82,6 +82,9 @@
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-33" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="130" y="700" width="350" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-34" value="精度评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
