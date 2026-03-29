@@ -65,7 +65,7 @@
           <mxGeometry x="185" y="500" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-25" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="185" y="550" width="245" height="120" as="geometry" />
+          <mxGeometry x="182.5" y="550" width="245" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-27" value="经验贝叶斯克里金回归预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="620" width="120" height="42.5" as="geometry" />
