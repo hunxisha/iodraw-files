@@ -104,7 +104,7 @@
           <mxGeometry x="135" y="840" width="25" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-41" value="土壤厚度空间发布图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="860" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
