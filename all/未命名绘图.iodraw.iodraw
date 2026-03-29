@@ -23,7 +23,7 @@
           <mxGeometry x="295" y="75" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-10" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="130" y="210" width="350" height="170" as="geometry" />
+          <mxGeometry x="130" y="210" width="350" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-11" value="环境变量提取与预处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="245" width="30" height="100" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="324" y="300" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-19" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="140" y="580" width="350" height="100" as="geometry" />
+          <mxGeometry x="135" y="585" width="350" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
