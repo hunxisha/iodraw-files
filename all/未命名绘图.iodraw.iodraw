@@ -1,112 +1,112 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Lx1ERrLv8-f3eGEHag1L">
-    <mxGraphModel dx="1534" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1841" dy="983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-1" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-1" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="130" y="80" width="350" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-4" value="前期准备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-4" value="前期准备" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="90" width="25" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-6" value="样点数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-6" value="样点数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="115" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-7" value="研究区资料收集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-7" value="研究区资料收集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="336" y="115" width="106" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="ULsQhHp4KFccXUQ3mqeq-8" target="ULsQhHp4KFccXUQ3mqeq-10">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="ULsQhHp4KFccXUQ3mqeq-8" target="ULsQhHp4KFccXUQ3mqeq-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="295" y="75" width="20" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="ULsQhHp4KFccXUQ3mqeq-10" target="ULsQhHp4KFccXUQ3mqeq-19">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="ULsQhHp4KFccXUQ3mqeq-10" target="ULsQhHp4KFccXUQ3mqeq-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-10" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-10" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="130" y="210" width="350" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-11" value="环境变量提取与预处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-11" value="环境变量提取与预处理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="220" width="25" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-20" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-20" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="170" y="220" width="290" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-12" value="地形因子：DEM、坡度、坡向、TWI、曲率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-12" value="地形因子：DEM、坡度、坡向、TWI、曲率" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="230" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-15" value="植被因子：NDVI、FVC、LAI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-15" value="植被因子：NDVI、FVC、LAI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="310" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-16" value="气候因子：气温、降水量、太阳总辐射、相对湿度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-16" value="气候因子：气温、降水量、太阳总辐射、相对湿度" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="324" y="230" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-17" value="岩性因子：母岩母质、砂粒含量、黏粒含量、土壤质地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-17" value="岩性因子：母岩母质、砂粒含量、黏粒含量、土壤质地" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="324" y="310" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="ULsQhHp4KFccXUQ3mqeq-19" target="ULsQhHp4KFccXUQ3mqeq-33">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="ULsQhHp4KFccXUQ3mqeq-19" target="ULsQhHp4KFccXUQ3mqeq-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-19" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-19" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="130" y="470" width="350" height="205" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-21" value="重采样、空间对其" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-21" value="重采样、空间对其" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="255" y="400" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="ULsQhHp4KFccXUQ3mqeq-20" target="ULsQhHp4KFccXUQ3mqeq-21">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="ULsQhHp4KFccXUQ3mqeq-20" target="ULsQhHp4KFccXUQ3mqeq-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="580" as="sourcePoint" />
             <mxPoint x="420" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-23" value="估计模型构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-23" value="估计模型构建" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="485" width="25" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="ULsQhHp4KFccXUQ3mqeq-24" target="ULsQhHp4KFccXUQ3mqeq-25">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="ULsQhHp4KFccXUQ3mqeq-24" target="ULsQhHp4KFccXUQ3mqeq-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-24" value="特征重要性排序与环境因子筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-24" value="特征重要性排序与环境因子筛选" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="185" y="485" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-25" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-25" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="182.5" y="535" width="245" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-27" value="经验贝叶斯克里金回归预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-27" value="经验贝叶斯克里金回归预测" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="245" y="605" width="120" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-28" value="随机森林" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-28" value="随机森林" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="545" width="110" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-29" value="梯度提升树" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-29" value="梯度提升树" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="315" y="545" width="110" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="ULsQhHp4KFccXUQ3mqeq-33" target="ULsQhHp4KFccXUQ3mqeq-38">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="ULsQhHp4KFccXUQ3mqeq-33" target="ULsQhHp4KFccXUQ3mqeq-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-33" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-33" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="130" y="700" width="350" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-34" value="精度评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-34" value="精度评估" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="710" width="25" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-36" value="评价指标：R&lt;sup&gt;2&lt;/sup&gt;、RMSE、MAE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-36" value="评价指标：R&lt;sup&gt;2&lt;/sup&gt;、RMSE、MAE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-37" value="留一法/k折交叉法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-37" value="留一法/k折交叉法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="322" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-38" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-38" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="130" y="830" width="350" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-39" value="成果产出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-39" value="成果产出" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="840" width="25" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-41" value="土壤厚度空间发布图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-41" value="土壤厚度空间分布图" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="855" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-42" value="主控因子贡献度分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-42" value="主控因子贡献度分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="322" y="855" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
