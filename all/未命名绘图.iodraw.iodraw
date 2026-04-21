@@ -98,7 +98,7 @@
           <mxGeometry x="322" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-38" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="130" y="830" width="350" height="130" as="geometry" />
+          <mxGeometry x="130" y="830" width="350" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-39" value="土壤厚度分布分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="840" width="25" height="120" as="geometry" />
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-42" value="主控因子贡献度分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="322" y="855" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jhbahAFDxID4UJgGHtx8-1" value="土壤厚度空间分布图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="865" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
