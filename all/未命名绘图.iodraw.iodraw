@@ -109,8 +109,8 @@
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-42" value="主控因子贡献度分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="322" y="855" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jhbahAFDxID4UJgGHtx8-1" value="土壤厚度空间分布图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="865" width="120" height="50" as="geometry" />
+        <mxCell id="jhbahAFDxID4UJgGHtx8-1" value="空间分析与统计分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="910" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
