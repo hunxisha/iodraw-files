@@ -100,7 +100,7 @@
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-38" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="130" y="830" width="350" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-39" value="成果产出" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-39" value="土壤厚度分布分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="840" width="25" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-41" value="土壤厚度空间分布图" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
