@@ -605,10 +605,10 @@
           <mxGeometry x="1654" y="2170" width="246" height="160" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-159" value="80%训练集，20验证集" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1677" y="2180" width="200" height="40" as="geometry" />
+          <mxGeometry x="1677" y="2190" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-160" value="随机森林（RF）" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="2300" width="200" height="40" as="geometry" />
+          <mxGeometry x="1677" y="2270" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
