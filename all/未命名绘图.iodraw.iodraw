@@ -566,6 +566,9 @@
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-144" value="土壤厚度样点数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1170" y="1250" width="186.79" height="39.94" as="geometry" />
         </mxCell>
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-147" value="相关性分析 (Pearson)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="574" y="1790" width="212" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
