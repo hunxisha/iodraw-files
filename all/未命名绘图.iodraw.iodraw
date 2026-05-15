@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="ULsQhHp4KFccXUQ3mqeq-10" target="ULsQhHp4KFccXUQ3mqeq-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-10" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-120" y="190" width="350" height="230" as="geometry" />
         </mxCell>
@@ -45,9 +42,6 @@
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-23" value="估计模型构建" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="485" width="25" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-25" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="182.5" y="535" width="245" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-27" value="经验贝叶斯克里金回归预测" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="245" y="605" width="120" height="42.5" as="geometry" />
