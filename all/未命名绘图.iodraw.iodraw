@@ -533,7 +533,7 @@
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-132" value="二普土壤类型数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-115">
           <mxGeometry x="240" y="110" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-133" value="历史土壤厚度数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-115">
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-133" value="土壤厚度采样点数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-115">
           <mxGeometry x="130" y="225" width="156" height="49" as="geometry" />
         </mxCell>
       </root>
