@@ -133,9 +133,6 @@
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sC0V4FQaiDv5OBtCnVYO-133" target="sC0V4FQaiDv5OBtCnVYO-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sC0V4FQaiDv5OBtCnVYO-142" target="sC0V4FQaiDv5OBtCnVYO-154">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-142" value="环境因子筛选" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1780" y="940" width="320" height="250" as="geometry" />
         </mxCell>
@@ -207,6 +204,9 @@
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-172" value="各模型精度对比" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1840" y="1734" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.466;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sC0V4FQaiDv5OBtCnVYO-142" target="sC0V4FQaiDv5OBtCnVYO-154">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
