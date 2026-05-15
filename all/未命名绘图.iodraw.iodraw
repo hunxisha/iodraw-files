@@ -527,8 +527,14 @@
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-118" value="环境因子数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-115">
           <mxGeometry x="390" y="225" width="156" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sC0V4FQaiDv5OBtCnVYO-115" source="sC0V4FQaiDv5OBtCnVYO-131" target="sC0V4FQaiDv5OBtCnVYO-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-131" value="历史土壤厚度数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-115">
           <mxGeometry x="50" y="110" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="sC0V4FQaiDv5OBtCnVYO-115" source="sC0V4FQaiDv5OBtCnVYO-132" target="sC0V4FQaiDv5OBtCnVYO-133">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-132" value="二普土壤类型数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-115">
           <mxGeometry x="240" y="110" width="156" height="49" as="geometry" />
