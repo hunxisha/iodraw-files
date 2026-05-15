@@ -551,6 +551,9 @@
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-136" value="数据格式统一、坐标系对齐、裁剪研究区" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-115">
           <mxGeometry x="186.26700680272108" y="269.9966144200627" width="330.52721088435374" height="39.93730407523511" as="geometry" />
         </mxCell>
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sC0V4FQaiDv5OBtCnVYO-115" target="sC0V4FQaiDv5OBtCnVYO-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
