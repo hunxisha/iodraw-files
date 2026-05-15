@@ -1,18 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Lx1ERrLv8-f3eGEHag1L">
-    <mxGraphModel dx="2166" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1339" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-19" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="322" y="495" width="350" height="205" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-29" value="梯度提升树" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="542" y="545" width="110" height="42.5" as="geometry" />
-        </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-1" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="322" y="190" width="350" height="230" as="geometry" />
-        </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-115" value="数据收集与预处理" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1100" y="940" width="650" height="380" as="geometry" />
         </mxCell>
@@ -129,6 +120,9 @@
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.466;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sC0V4FQaiDv5OBtCnVYO-142" target="sC0V4FQaiDv5OBtCnVYO-154">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-177" value="各模型精度对比" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1173.3899999999999" y="1660" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
