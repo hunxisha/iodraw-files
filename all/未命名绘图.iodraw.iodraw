@@ -127,6 +127,9 @@
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.466;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sC0V4FQaiDv5OBtCnVYO-142" target="sC0V4FQaiDv5OBtCnVYO-154">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sC0V4FQaiDv5OBtCnVYO-177" target="sC0V4FQaiDv5OBtCnVYO-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-177" value="空间自相关分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1440" y="1650" width="200" height="40" as="geometry" />
         </mxCell>
