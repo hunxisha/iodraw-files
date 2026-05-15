@@ -542,8 +542,8 @@
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-133" value="土壤厚度采样点数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-115">
           <mxGeometry x="141" y="210" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-136" value="土壤厚度采样点数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1251" y="1160" width="156" height="49" as="geometry" />
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-136" value="数据格式统一、坐标系对齐、裁剪研究区" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-115">
+          <mxGeometry x="141" y="294.5" width="156" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
