@@ -530,40 +530,26 @@
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-118" value="环境因子数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-115">
           <mxGeometry x="381" y="46" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-120" value="数据格式统一、坐标系对齐、裁剪研究区" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-115">
-          <mxGeometry x="178" y="418" width="252" height="67" as="geometry" />
-        </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-121" value="标准化土壤厚度样点数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-115">
           <mxGeometry x="47" y="559" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-122" value="多源环境因子栅格数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-115">
           <mxGeometry x="333" y="559" width="220" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-125" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="sC0V4FQaiDv5OBtCnVYO-115">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="304" y="219" as="sourcePoint" />
-            <mxPoint x="304" y="294" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-126" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="sC0V4FQaiDv5OBtCnVYO-115" target="sC0V4FQaiDv5OBtCnVYO-120">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="304" y="343" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-127" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="sC0V4FQaiDv5OBtCnVYO-115" source="sC0V4FQaiDv5OBtCnVYO-120" target="sC0V4FQaiDv5OBtCnVYO-121">
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-127" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="sC0V4FQaiDv5OBtCnVYO-115" target="sC0V4FQaiDv5OBtCnVYO-121">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="165" y="522" />
             </Array>
+            <mxPoint x="237.1428571428578" y="485" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-128" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="sC0V4FQaiDv5OBtCnVYO-115" source="sC0V4FQaiDv5OBtCnVYO-120" target="sC0V4FQaiDv5OBtCnVYO-122">
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-128" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="sC0V4FQaiDv5OBtCnVYO-115" target="sC0V4FQaiDv5OBtCnVYO-122">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="443" y="522" />
             </Array>
+            <mxPoint x="370.8571428571422" y="485" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
