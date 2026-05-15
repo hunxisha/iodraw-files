@@ -522,10 +522,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-115" value="数据收集与预处理" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="940" width="588" height="638" as="geometry" />
+          <mxGeometry x="1130" y="960" width="588" height="638" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-118" value="环境因子数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-115">
-          <mxGeometry x="381" y="46" width="156" height="49" as="geometry" />
+          <mxGeometry x="390" y="225" width="156" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
