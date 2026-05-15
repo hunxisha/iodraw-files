@@ -569,11 +569,14 @@
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-144" value="土壤厚度样点数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1170" y="1250" width="186.79" height="39.94" as="geometry" />
         </mxCell>
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sC0V4FQaiDv5OBtCnVYO-147" target="sC0V4FQaiDv5OBtCnVYO-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-147" value="相关性分析 (Pearson)" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1533.17" y="1400" width="178.34" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-149" value="环境变量剔除（|r| &gt; 0.8）" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1438.45" y="1790" width="178.34" height="40" as="geometry" />
+          <mxGeometry x="1533.17" y="1480" width="178.34" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
