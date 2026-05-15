@@ -521,7 +521,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-115" value="数据收集与预处理模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-115" value="数据收集与预处理模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1250" y="940" width="588" height="638" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-116" value="土壤厚度采样点数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-115">
