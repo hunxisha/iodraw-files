@@ -573,10 +573,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-147" value="相关性分析 (Pearson)" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="1000" width="178.34" height="40" as="geometry" />
+          <mxGeometry x="1850.83" y="1000" width="178.34" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-149" value="环境变量剔除（|r| &gt; 0.8）" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="1080.79" width="178.34" height="40" as="geometry" />
+          <mxGeometry x="1850.83" y="1080.79" width="178.34" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
