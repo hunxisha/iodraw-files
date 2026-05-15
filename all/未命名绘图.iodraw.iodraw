@@ -596,7 +596,10 @@
           <mxGeometry x="1390" y="2170" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-156" value="随机森林（RF）" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="2170" width="160" height="40" as="geometry" />
+          <mxGeometry x="1630" y="2170" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-157" value="随机森林（RF）" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="2180" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
