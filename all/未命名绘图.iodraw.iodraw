@@ -136,6 +136,9 @@
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-183" value="空间分异规律" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1700" y="1650" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-184" value="区域统计分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="1780" width="200" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
