@@ -1,101 +1,17 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Lx1ERrLv8-f3eGEHag1L">
-    <mxGraphModel dx="2993" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2166" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ULsQhHp4KFccXUQ3mqeq-10" target="sC0V4FQaiDv5OBtCnVYO-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-10" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="190" width="350" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-11" value="环境变量提取与预处理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-115" y="200" width="25" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-20" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="200" width="290" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-12" value="地形因子：DEM、坡度、坡向、TWI、曲率" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="210" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-15" value="植被因子：NDVI、FVC、LAI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="290" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-16" value="气候因子：气温、降水量、太阳总辐射、相对湿度" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="74" y="210" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-17" value="岩性因子：岩性" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="74" y="290" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ULsQhHp4KFccXUQ3mqeq-19" target="ULsQhHp4KFccXUQ3mqeq-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-19" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="322" y="495" width="350" height="205" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-21" value="重采样、空间对其" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5" y="380" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="ULsQhHp4KFccXUQ3mqeq-20" target="ULsQhHp4KFccXUQ3mqeq-21" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="560" as="sourcePoint" />
-            <mxPoint x="170" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-23" value="估计模型构建" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="327" y="510" width="25" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-27" value="经验贝叶斯克里金回归预测" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="437" y="630" width="120" height="42.5" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-28" value="随机森林" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="362" y="545" width="110" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-29" value="梯度提升树" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="542" y="545" width="110" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ULsQhHp4KFccXUQ3mqeq-33" target="ULsQhHp4KFccXUQ3mqeq-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-33" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-115" y="495" width="350" height="205" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-34" value="精度评估" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="505" width="25" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-36" value="评价指标：R&lt;sup&gt;2&lt;/sup&gt;、RMSE、MAE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-75" y="515" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-37" value="留一法/k折交叉法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="77" y="515" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-38" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="100" y="780" width="350" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-39" value="土壤厚度分布分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="105" y="790" width="25" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-41" value="土壤厚度空间分布图" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="805" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-42" value="主控因子贡献度分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="292" y="805" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jhbahAFDxID4UJgGHtx8-1" value="空间分析与统计分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="215" y="860" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sC0V4FQaiDv5OBtCnVYO-1" target="ULsQhHp4KFccXUQ3mqeq-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-1" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="322" y="190" width="350" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-2" value="环境变量相关性分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="200" width="25" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="437" y="240" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-115" value="数据收集与预处理" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1100" y="940" width="650" height="380" as="geometry" />
