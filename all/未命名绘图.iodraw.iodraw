@@ -410,9 +410,6 @@
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-83" value="环境因子筛选模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="231" y="1610" width="847" height="496" as="geometry" />
         </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-84" value="初步选取14个环境因子" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-83">
-          <mxGeometry x="599" y="46" width="221" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-85" value="标准化土壤厚度样点数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-83">
           <mxGeometry x="43" y="46" width="236" height="49" as="geometry" />
         </mxCell>
@@ -440,11 +437,17 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-92" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0;rounded=0;" edge="1" parent="sC0V4FQaiDv5OBtCnVYO-83" source="sC0V4FQaiDv5OBtCnVYO-84" target="sC0V4FQaiDv5OBtCnVYO-86">
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-92" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0;rounded=0;" edge="1" parent="sC0V4FQaiDv5OBtCnVYO-83" target="sC0V4FQaiDv5OBtCnVYO-86">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="709" y="132" />
             </Array>
+            <mxPoint x="709.5" y="95" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-114" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sC0V4FQaiDv5OBtCnVYO-92">
+          <mxGeometry x="0.2473" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-93" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="sC0V4FQaiDv5OBtCnVYO-83" source="sC0V4FQaiDv5OBtCnVYO-86" target="sC0V4FQaiDv5OBtCnVYO-88">
