@@ -595,6 +595,9 @@
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-155" value="经验贝叶斯克里金法（EBK）" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1390" y="2170" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-156" value="经验贝叶斯克里金法（EBK）" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="2170" width="200" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
