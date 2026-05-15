@@ -170,40 +170,40 @@
           <mxGeometry x="1850.83" y="1129" width="178.34" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-154" value="模型构建与训练" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="1338" width="550" height="240" as="geometry" />
+          <mxGeometry x="1380" y="1338" width="550" height="240" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sC0V4FQaiDv5OBtCnVYO-155" target="sC0V4FQaiDv5OBtCnVYO-158">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-155" value="经验贝叶斯克里金法（EBK）" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1571.06" y="1388" width="200" height="40" as="geometry" />
+          <mxGeometry x="1401.06" y="1388" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sC0V4FQaiDv5OBtCnVYO-156" target="sC0V4FQaiDv5OBtCnVYO-158">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-156" value="随机森林（RF）" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1571.06" y="1508" width="200" height="40" as="geometry" />
+          <mxGeometry x="1401.06" y="1508" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sC0V4FQaiDv5OBtCnVYO-157" target="sC0V4FQaiDv5OBtCnVYO-158">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-157" value="梯度提升决策树（GBDT）" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1571.06" y="1448" width="200" height="40" as="geometry" />
+          <mxGeometry x="1401.06" y="1448" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-158" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1835.06" y="1388" width="246" height="160" as="geometry" />
+          <mxGeometry x="1665.06" y="1388" width="246" height="160" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-159" value="80%训练集，20验证集" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1858.06" y="1408" width="200" height="40" as="geometry" />
+          <mxGeometry x="1688.06" y="1408" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-160" value="10折交叉验证" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1858.06" y="1488" width="200" height="40" as="geometry" />
+          <mxGeometry x="1688.06" y="1488" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-165" value="空间制图与分析" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1100" y="1610" width="1000" height="250" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-170" value="各模型精度对比" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="1640" width="200" height="40" as="geometry" />
+          <mxGeometry x="1840" y="1650" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-172" value="各模型精度对比" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1840" y="1734" width="200" height="40" as="geometry" />
