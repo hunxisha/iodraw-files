@@ -522,36 +522,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-115" value="数据收集与预处理模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="940" width="588" height="638" as="geometry" />
+          <mxGeometry x="1250" y="940" width="588" height="638" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-116" value="土壤厚度采样点数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-115">
           <mxGeometry x="55" y="46" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-118" value="环境因子数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-115">
           <mxGeometry x="381" y="46" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-127" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="sC0V4FQaiDv5OBtCnVYO-115">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="165" y="522" />
-            </Array>
-            <mxPoint x="237.1428571428578" y="485" as="sourcePoint" />
-            <mxPoint x="165" y="559" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-128" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="sC0V4FQaiDv5OBtCnVYO-115">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="443" y="522" />
-            </Array>
-            <mxPoint x="370.8571428571422" y="485" as="sourcePoint" />
-            <mxPoint x="443.0000000000009" y="559" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-130" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sC0V4FQaiDv5OBtCnVYO-128">
-          <mxGeometry x="0.2053" y="-9" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
