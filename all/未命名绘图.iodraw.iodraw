@@ -203,7 +203,7 @@
           <mxGeometry x="1100" y="1610" width="1000" height="250" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-170" value="各模型精度对比" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="1650" width="200" height="40" as="geometry" />
+          <mxGeometry x="1163.3899999999999" y="1650" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-172" value="各模型精度对比" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1840" y="1734" width="200" height="40" as="geometry" />
