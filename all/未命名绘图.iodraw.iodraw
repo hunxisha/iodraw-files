@@ -133,6 +133,9 @@
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-177" value="空间自相关分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1440" y="1650" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sC0V4FQaiDv5OBtCnVYO-179" target="sC0V4FQaiDv5OBtCnVYO-184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-179" value="区域统计分析（土地利用）" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1440" y="1770" width="200" height="40" as="geometry" />
         </mxCell>
