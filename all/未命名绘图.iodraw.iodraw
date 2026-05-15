@@ -555,7 +555,10 @@
           <mxGeometry x="1831" y="1250" width="650" height="290" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-143" value="多源环境因子栅格数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1286.267006802721" y="1249.9966144200628" width="330.52721088435374" height="39.93730407523511" as="geometry" />
+          <mxGeometry x="1430" y="1250" width="186.79" height="39.94" as="geometry" />
+        </mxCell>
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-144" value="多源环境因子栅格数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1260" width="186.79" height="39.94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
