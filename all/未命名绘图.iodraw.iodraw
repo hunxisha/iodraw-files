@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Lx1ERrLv8-f3eGEHag1L">
-    <mxGraphModel dx="2668" dy="983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2993" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -437,12 +437,6 @@
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-93" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="sC0V4FQaiDv5OBtCnVYO-83" source="sC0V4FQaiDv5OBtCnVYO-86" target="sC0V4FQaiDv5OBtCnVYO-88">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-94" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="sC0V4FQaiDv5OBtCnVYO-83" source="sC0V4FQaiDv5OBtCnVYO-88">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="439.5" y="418" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-95" value="数据收集与预处理模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
