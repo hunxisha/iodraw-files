@@ -558,7 +558,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-142" value="环境因子筛选" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="940" width="320" height="260" as="geometry" />
+          <mxGeometry x="1780" y="940" width="320" height="250" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sC0V4FQaiDv5OBtCnVYO-143" target="sC0V4FQaiDv5OBtCnVYO-147">
           <mxGeometry relative="1" as="geometry">
@@ -588,6 +588,9 @@
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-152" value="环境因子空间数据库" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1850.83" y="1129" width="178.34" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-154" value="数据收集与预处理" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="950" width="650" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
