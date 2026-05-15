@@ -522,22 +522,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-115" value="数据收集与预处理" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="940" width="650" height="560" as="geometry" />
+          <mxGeometry x="1100" y="940" width="650" height="340" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-131" value="历史土壤厚度数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1820.0021088435374" y="1190.001724137931" width="172.44897959183675" height="43.009404388714735" as="geometry" />
+          <mxGeometry x="1870.0021088435374" y="1004.031724137931" width="172.44897959183675" height="43.009404388714735" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-132" value="二普土壤类型数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2030.0361224489795" y="1190.001724137931" width="172.44897959183675" height="43.009404388714735" as="geometry" />
+          <mxGeometry x="2080.0361224489798" y="1004.031724137931" width="172.44897959183675" height="43.009404388714735" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-118" value="环境因子数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2229.0157142857142" y="1190.001724137931" width="172.44897959183675" height="43.009404388714735" as="geometry" />
+          <mxGeometry x="2279.0157142857142" y="1004.031724137931" width="172.44897959183675" height="43.009404388714735" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-133" value="土壤厚度采样点数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1920.5973469387754" y="1277.7760188087773" width="172.44897959183675" height="43.009404388714735" as="geometry" />
+          <mxGeometry x="1970.5973469387754" y="1091.8060188087773" width="172.44897959183675" height="43.009404388714735" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-136" value="数据格式统一、坐标系对齐、裁剪研究区" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1971.997006802721" y="1361.9966144200628" width="330.52721088435374" height="39.93730407523511" as="geometry" />
+          <mxGeometry x="2021.997006802721" y="1176.0266144200627" width="330.52721088435374" height="39.93730407523511" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sC0V4FQaiDv5OBtCnVYO-131" target="sC0V4FQaiDv5OBtCnVYO-133">
           <mxGeometry relative="1" as="geometry" />
@@ -549,9 +549,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sC0V4FQaiDv5OBtCnVYO-133" target="sC0V4FQaiDv5OBtCnVYO-136">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.768;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sC0V4FQaiDv5OBtCnVYO-115" target="sC0V4FQaiDv5OBtCnVYO-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
