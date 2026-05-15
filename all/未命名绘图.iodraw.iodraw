@@ -28,6 +28,9 @@
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-17" value="岩性因子：岩性" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="74" y="290" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ULsQhHp4KFccXUQ3mqeq-19" target="ULsQhHp4KFccXUQ3mqeq-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-19" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="322" y="495" width="350" height="205" as="geometry" />
         </mxCell>
@@ -53,7 +56,7 @@
           <mxGeometry x="542" y="545" width="110" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-33" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-115" y="495" width="350" height="100" as="geometry" />
+          <mxGeometry x="-115" y="495" width="350" height="205" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-34" value="精度评估" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-110" y="505" width="25" height="80" as="geometry" />
