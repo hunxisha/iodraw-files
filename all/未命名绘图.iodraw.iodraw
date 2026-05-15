@@ -543,7 +543,7 @@
           <mxGeometry x="134.8673469387755" y="185.77601880877742" width="172.44897959183675" height="43.009404388714735" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-136" value="数据格式统一、坐标系对齐、裁剪研究区" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-115">
-          <mxGeometry x="186.26700680272108" y="421.3166144200627" width="330.52721088435374" height="39.93730407523511" as="geometry" />
+          <mxGeometry x="186.26700680272108" y="269.9966144200627" width="330.52721088435374" height="39.93730407523511" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
