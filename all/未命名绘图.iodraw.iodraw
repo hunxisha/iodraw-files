@@ -97,12 +97,6 @@
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="437" y="240" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-8" value="结论与展望模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="247" y="3973" width="814" height="372" as="geometry" />
-        </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-12" value="土地利用与土壤厚度关系" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-8">
-          <mxGeometry x="551" y="170" width="236" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-21" value="空间制图与分析模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="364" y="3391" width="581" height="532" as="geometry" />
         </mxCell>
@@ -414,7 +408,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-83" value="环境因子筛选模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="231" y="1628" width="847" height="496" as="geometry" />
+          <mxGeometry x="231" y="1610" width="847" height="496" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-84" value="初步选取14个环境因子" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sC0V4FQaiDv5OBtCnVYO-83">
           <mxGeometry x="599" y="46" width="221" height="49" as="geometry" />
