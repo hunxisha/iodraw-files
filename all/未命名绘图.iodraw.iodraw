@@ -50,16 +50,16 @@
           <mxGeometry x="-390" y="480" width="110" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-33" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="840" width="350" height="100" as="geometry" />
+          <mxGeometry x="-440" y="690" width="350" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-34" value="精度评估" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-635" y="850" width="25" height="80" as="geometry" />
+          <mxGeometry x="-435" y="700" width="25" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-36" value="评价指标：R&lt;sup&gt;2&lt;/sup&gt;、RMSE、MAE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="-400" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-37" value="留一法/k折交叉法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-448" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="-248" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-38" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="40" y="720" width="350" height="140" as="geometry" />
