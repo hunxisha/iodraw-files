@@ -590,7 +590,7 @@
           <mxGeometry x="1850.83" y="1129" width="178.34" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-154" value="模型构建与训练" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1356.79" y="1900" width="650" height="380" as="geometry" />
+          <mxGeometry x="1330" y="2080" width="650" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
