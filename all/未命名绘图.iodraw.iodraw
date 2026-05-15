@@ -604,8 +604,8 @@
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-158" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1654" y="2170" width="246" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-159" value="经验贝叶斯克里金法（EBK）" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="2180" width="200" height="40" as="geometry" />
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-159" value="80%训练集，20验证集" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1677" y="2180" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
