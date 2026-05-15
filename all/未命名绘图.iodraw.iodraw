@@ -202,7 +202,7 @@
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-165" value="空间制图与分析" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1100" y="1610" width="1000" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-170" value="80%训练集，20验证集" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="sC0V4FQaiDv5OBtCnVYO-170" value="各模型精度对比" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1840" y="1660" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
