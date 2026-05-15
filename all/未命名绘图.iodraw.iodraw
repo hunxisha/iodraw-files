@@ -46,11 +46,10 @@
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-23" value="估计模型构建" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="485" width="25" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="ULsQhHp4KFccXUQ3mqeq-24" target="ULsQhHp4KFccXUQ3mqeq-25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ULsQhHp4KFccXUQ3mqeq-24" value="特征重要性排序与环境因子筛选" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="185" y="485" width="240" height="30" as="geometry" />
+        <mxCell id="ULsQhHp4KFccXUQ3mqeq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" target="ULsQhHp4KFccXUQ3mqeq-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="515" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ULsQhHp4KFccXUQ3mqeq-25" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="182.5" y="535" width="245" height="120" as="geometry" />
