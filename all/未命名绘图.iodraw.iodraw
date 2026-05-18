@@ -76,13 +76,8 @@
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sC0V4FQaiDv5OBtCnVYO-154" target="sC0V4FQaiDv5OBtCnVYO-165" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hQVQ5bHJTe2Yu_z1M33Q-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sC0V4FQaiDv5OBtCnVYO-154">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1190" y="1460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-154" value="模型构建与训练" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1325" y="1340" width="550" height="240" as="geometry" />
+          <mxGeometry x="1100" y="1340" width="1010" height="240" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sC0V4FQaiDv5OBtCnVYO-155" target="sC0V4FQaiDv5OBtCnVYO-158" edge="1">
           <mxGeometry relative="1" as="geometry" />
