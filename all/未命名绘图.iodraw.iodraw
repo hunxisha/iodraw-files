@@ -96,6 +96,9 @@
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-157" value="梯度提升决策树（GBDT）" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1230" y="1450" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hQVQ5bHJTe2Yu_z1M33Q-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sC0V4FQaiDv5OBtCnVYO-158" target="hQVQ5bHJTe2Yu_z1M33Q-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-158" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1494" y="1390" width="246" height="160" as="geometry" />
         </mxCell>
