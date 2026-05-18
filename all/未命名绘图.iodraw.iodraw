@@ -120,19 +120,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-177" value="空间自相关分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1508.3100000000002" y="1670" width="200" height="40" as="geometry" />
+          <mxGeometry x="1425.0000000000002" y="1674" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sC0V4FQaiDv5OBtCnVYO-179" target="sC0V4FQaiDv5OBtCnVYO-184" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-179" value="区域统计分析（土地利用）" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1508.3100000000002" y="1790" width="200" height="40" as="geometry" />
+          <mxGeometry x="1425.0000000000002" y="1794" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-183" value="空间分异规律" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1768.3100000000002" y="1670" width="200" height="40" as="geometry" />
+          <mxGeometry x="1685.0000000000002" y="1674" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-184" value="土地利用与土壤厚度关系" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1768.3100000000002" y="1790" width="200" height="40" as="geometry" />
+          <mxGeometry x="1685.0000000000002" y="1794" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hQVQ5bHJTe2Yu_z1M33Q-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hQVQ5bHJTe2Yu_z1M33Q-5" target="hQVQ5bHJTe2Yu_z1M33Q-6">
           <mxGeometry relative="1" as="geometry" />
