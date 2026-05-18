@@ -14,7 +14,7 @@
           <mxGeometry x="1344.3061224489797" y="990.001724137931" width="172.44897959183675" height="43.009404388714735" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-118" value="环境因子数据：&#xa;地形因子、生物因子、气候因子、岩性因子" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1543.2857142857142" y="990.001724137931" width="172.44897959183675" height="43.009404388714735" as="geometry" />
+          <mxGeometry x="1543.29" y="990" width="176.71" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-133" value="土壤厚度采样点数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1234.8673469387754" y="1077.7760188087773" width="172.44897959183675" height="43.009404388714735" as="geometry" />
