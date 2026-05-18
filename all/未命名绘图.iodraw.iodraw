@@ -145,10 +145,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hQVQ5bHJTe2Yu_z1M33Q-5" value="各模型精度对比" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="1390" width="200" height="40" as="geometry" />
+          <mxGeometry x="1829.17" y="1390" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hQVQ5bHJTe2Yu_z1M33Q-6" value="最优模型土壤厚度制图" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="1510" width="200" height="40" as="geometry" />
+          <mxGeometry x="1829.17" y="1510" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
