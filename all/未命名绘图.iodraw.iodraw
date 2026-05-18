@@ -109,21 +109,11 @@
           <mxGeometry x="1517" y="1490" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-165" value="空间制图与分析" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1225" y="1629" width="800" height="250" as="geometry" />
+          <mxGeometry x="1330" y="1629" width="650" height="250" as="geometry" />
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="sC0V4FQaiDv5OBtCnVYO-172" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1331.6999999999998" y="1710" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="sC0V4FQaiDv5OBtCnVYO-177" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1431.6999999999998" y="1810" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sC0V4FQaiDv5OBtCnVYO-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="sC0V4FQaiDv5OBtCnVYO-179" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1431.6999999999998" y="1810" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sC0V4FQaiDv5OBtCnVYO-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sC0V4FQaiDv5OBtCnVYO-177" target="sC0V4FQaiDv5OBtCnVYO-183" edge="1">
